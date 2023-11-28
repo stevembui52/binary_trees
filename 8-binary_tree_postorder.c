@@ -1,6 +1,6 @@
 #include "binary_trees.h"
-#include<stlib.h>
-#include<stdio.h>
+#include <stlib.h>
+#include <stdio.h>
 
 /**
  * binary_tree_postorder - goes through a binary tree using post-order traversal
