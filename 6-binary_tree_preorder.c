@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * binary_tree_preorder - Prints the elements of tree by use is of a pre-order traversal.
+ * binary_tree_preorder - Prints the elements of tree using pre-order traversal
  *
  * @tree: the pointer of the  node of the tree to traverse
  * @func: is a pointer to a function to call for each node
