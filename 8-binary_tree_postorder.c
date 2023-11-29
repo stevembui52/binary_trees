@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-#include <stlib.h>
+#include <stdlib.h>
 #include <stdio.h>
 
 /**
