@@ -1,6 +1,5 @@
 <h1 align="center">0x1D. C - Binary trees</h1>
 ## Description Project
-
 ## General
 Concepts to learn in this project:
 
